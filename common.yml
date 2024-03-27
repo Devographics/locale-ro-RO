@@ -1110,55 +1110,55 @@ translations:
   # age
   - key: user_info.age
     t: Vârstă
-  - key: user_info.age.description
+  - key: user_info.age.question
     t: Ce vârstă ai?
 
   # years of experience
   - key: user_info.years_of_experience
     t: Ani de experiență
-  - key: user_info.years_of_experience.description
+  - key: user_info.years_of_experience.question
     t: De câți ani lucrezi sau studiezi acest domeniu?
 
   # company size
   - key: user_info.company_size
     t: Dimensiunea companiei
-  - key: user_info.company_size.description
+  - key: user_info.company_size.question
     t: Câți angajați lucrează în companie, inclusiv tu?
 
   # salary ranges
   - key: user_info.yearly_salary
     t: Venit anual
-  - key: user_info.yearly_salary.description
+  - key: user_info.yearly_salary.question
     t: Venitul tău anual brut (înainte de taxe), exprimat în dolari (USD).
 
   # job title
   - key: user_info.job_title
     t: Denumirea funcției
-  - key: user_info.job_title.description
+  - key: user_info.job_title.question
     t: Cum te prezinți la petreceri?
 
   # javascript proficiency
   - key: user_info.javascript_proficiency
     t: Experiență cu JavaScript
-  - key: user_info.javascript_proficiency.description
+  - key: user_info.javascript_proficiency.question
     t: Câtă experiență ai cu Javascript?
 
   # css proficiency
   - key: user_info.css_proficiency
     t: Experiență cu CSS
-  - key: user_info.css_proficiency.description
+  - key: user_info.css_proficiency.question
     t: Câtă experiență ai cu CSS?
 
   # backend proficiency
   - key: user_info.backend_proficiency
     t: Experiență în Back-end
-  - key: user_info.backend_proficiency.description
+  - key: user_info.backend_proficiency.question
     t: Câtă experiență ai în dezvoltare back-end?
 
   # gender
   - key: user_info.gender
     t: Gen
-  - key: user_info.gender.description
+  - key: user_info.gender.question
     t: >
       Care dintre următoarele opțiuni te descrie (dacă există)? Te rugăm să bifezi o opțiune.
   - key: user_info.gender.note
@@ -1170,7 +1170,7 @@ translations:
   # race & ethnicity
   - key: user_info.race_ethnicity
     t: Rasă și etnie
-  - key: user_info.race_ethnicity.description
+  - key: user_info.race_ethnicity.question
     t: >
       Care dintre următoarele opțiuni te descrie (dacă există)? Te rugăm să bifezi toate opțiunile care se aplică.
   - key: user_info.race_ethnicity.note
@@ -1190,7 +1190,7 @@ translations:
   # disability status
   - key: user_info.disability_status
     t: Dizabilități
-  - key: user_info.disability_status.description
+  - key: user_info.disability_status.question
     t: >
       Cu care dintre aceste dizabilități te confrunți (dacă există)? Te rugăm să bifezi toate opțiunile care se aplică.
       Răspunsul poate include dizabilități temporare sau accidentări.
@@ -1235,7 +1235,7 @@ translations:
 
   - key: user_info.industry_sector
     t: Industrie
-  - key: user_info.industry_sector.description
+  - key: user_info.industry_sector.question
     t: În ce industrie/industrii lucrezi?
   - key: user_info.industry_sector.others
     t: Alte industrii
@@ -1245,18 +1245,18 @@ translations:
   - key: usage.industry_sector
     aliasFor: user_info.industry_sector
   - key: usage.industry_sector.description
-    aliasFor: user_info.industry_sector.description
+    aliasFor: user_info.industry_sector.question
   - key: usage.industry_sector.others
     aliasFor: user_info.industry_sector.others
   - key: usage.industry_sector_freeform
     aliasFor: user_info.industry_sector.others
   - key: usage.industry_sector.others.description
-    aliasFor: user_info.industry_sector.description
+    aliasFor: user_info.industry_sector.question
 
   # degree
   - key: user_info.higher_education_degree
     t: Studii superioare
-  - key: user_info.higher_education_degree.description
+  - key: user_info.higher_education_degree.question
     t: Ai o diplomă de studii superioare?
 
   # employment status
