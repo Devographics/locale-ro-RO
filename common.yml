@@ -1289,7 +1289,7 @@ translations:
 
   - key: tools_others.libraries
     t: Librării
-  - key: tools_others.libraries.description
+  - key: tools_others.libraries.question
     t: Ce librării folosești în mod frecvent?
   - key: tools_others.libraries.others
     t: Alte librării
@@ -1298,7 +1298,7 @@ translations:
 
   - key: tools_others.text_editors
     t: Editoare de text
-  - key: tools_others.text_editors.description
+  - key: tools_others.text_editors.question
     t: Ce editor/editoare de text folosești în mod frecvent?
   - key: tools_others.text_editors.others
     t: Alte editoare de text
@@ -1307,7 +1307,7 @@ translations:
 
   - key: tools_others.utilities
     t: Utilitare
-  - key: tools_others.utilities.description
+  - key: tools_others.utilities.question
     t: Ce utilitare sau instrumente folosești în mod frecvent?
   - key: tools_others.utilities.others
     t: Alte utilitare
@@ -1316,7 +1316,7 @@ translations:
 
   - key: tools_others.browsers
     t: Browsere
-  - key: tools_others.browsers.description
+  - key: tools_others.browsers.question
     t: Ce browser(e) folosești în faza inițială de dezvoltare?
   - key: tools_others.browsers.others
     t: Alte browsere
@@ -1325,7 +1325,7 @@ translations:
 
   - key: tools_others.build_tools
     t: Tool-uri pentru build
-  - key: tools_others.build_tools.description
+  - key: tools_others.build_tools.question
     t: Ce tool-uri pentru build folosești?
   - key: tools_others.build_tools.others
     t: Alte tool-uri pentru build
@@ -1334,7 +1334,7 @@ translations:
 
   - key: tools_others.non_js_languages
     t: Limbaje non-JavaScript
-  - key: tools_others.non_js_languages.description
+  - key: tools_others.non_js_languages.question
     t: Ce alte limbaje de programare folosești?
   - key: tools_others.non_js_languages.others
     t: Alte limbaje
@@ -1343,7 +1343,7 @@ translations:
 
   - key: tools_others.javascript_flavors
     t: JavaScript Flavors
-  - key: tools_others.javascript_flavors.description
+  - key: tools_others.javascript_flavors.question
     t: Limbaje care compilează în JavaScript
   - key: tools_others.javascript_flavors.others
     t: Alte JavaScript Flavors

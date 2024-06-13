@@ -679,7 +679,7 @@ translations:
 
   - key: tools_others.utilities
     t: Utilitare
-  - key: tools_others.utilities.description
+  - key: tools_others.utilities.question
     t: Ce utilitare sau instrumente folosești în mod frecvent?
   - key: tools_others.utilities.others
     t: Alte utilitare
@@ -691,7 +691,7 @@ translations:
   - key: other_tools.utilities
     aliasFor: tools_others.utilities
   - key: other_tools.utilities.description
-    aliasFor: tools_others.utilities.description
+    aliasFor: tools_others.utilities.question
   - key: other_tools.utilities.others
     aliasFor: tools_others.utilities.others
   - key: other_tools.utilities.others.description
@@ -701,7 +701,7 @@ translations:
 
   - key: tools_others.browsers
     t: Browsere
-  - key: tools_others.browsers.description
+  - key: tools_others.browsers.question
     t: Ce browser(e) folosești în faza inițială de dezvoltare?
   - key: tools_others.browsers.others
     t: Alte browsere
@@ -711,7 +711,7 @@ translations:
   - key: other_tools.browsers
     aliasFor: tools_others.browsers
   - key: other_tools.browsers.description
-    aliasFor: tools_others.browsers.description
+    aliasFor: tools_others.browsers.question
   - key: other_tools.browsers.others
     aliasFor: tools_others.browsers.others
   - key: other_tools.browsers.others.description

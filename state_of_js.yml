@@ -667,7 +667,7 @@ translations:
 
   - key: tools_others.runtimes
     t: JavaScript Runtimes
-  - key: tools_others.runtimes.description
+  - key: tools_others.runtimes.question
     t: Ce engines/runtimes/execution environments folosești în mod frecvent?
   - key: tools_others.runtimes.others
     t: Alte runtimes
@@ -676,7 +676,7 @@ translations:
 
   - key: tools_others.package_registries
     t: Package Registries
-  - key: tools_others.package_registries.description
+  - key: tools_others.package_registries.question
     t: Ce package registries folosești în mod frecvent?
   - key: tools_others.package_registries.others
     t: Alte package registries
@@ -690,35 +690,35 @@ translations:
 
   - key: tools_others.backend_as_a_service
     t: Provideri backend-as-a-service
-  - key: tools_others.backend_as_a_service.description
+  - key: tools_others.backend_as_a_service.question
     t: Servicii care găzduiesc date și oferă un client API pentru a le accesa.
   - key: tools_others.backend_as_a_service.others
     t: Alți provideri BaaS
 
   - key: tools_others.date_management
     t: Managementul datei
-  - key: tools_others.date_management.description
+  - key: tools_others.date_management.question
     t: Librării care te ajută să gestionezi datele și diferențele de fus orar.
   - key: tools_others.date_management.others
     t: Alte librării de management al datei
 
   - key: tools_others.data_visualization
     t: Vizualizarea datelor
-  - key: tools_others.data_visualization.description
+  - key: tools_others.data_visualization.question
     t: Librării care te ajută cu grafice și alte vizualizări de date.
   - key: tools_others.data_visualization.others
     t: Alte librării de vizualizare a datelor
 
   - key: tools_others.graphics_animation
     t: Grafică & animații
-  - key: tools_others.graphics_animation.description
+  - key: tools_others.graphics_animation.question
     t: Librării dedicate graficii și animațiilor.
   - key: tools_others.graphics_animation.others
     t: Alte librării de grafică & animații
 
   - key: tools_others.data_fetching
     t: Preluarea datelor
-  - key: tools_others.data_fetching.description
+  - key: tools_others.data_fetching.question
     t: Librării care gestionează preluarea și stocarea în cache a datelor.
   - key: tools_others.data_fetching.others
     t: Alte librării de preluare a datelor
