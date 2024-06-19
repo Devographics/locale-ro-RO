@@ -8,9 +8,9 @@ translations:
     t: Începe
 
   - key: page.previous
-    t: 'Pagina anterioară:'
+    t: "Pagina anterioară:"
   - key: page.next
-    t: 'Pagina următoare:'
+    t: "Pagina următoare:"
 
   - key: general.state_of_css_link
     t: State of CSS
@@ -19,7 +19,7 @@ translations:
     t: Găzduit de <a href="{link}">Netlify</a>.
 
   - key: general.completion_percentage
-    t: 'Procent de completare:'
+    t: "Procent de completare:"
 
   - key: sponsors.thanks
     t: Mulțumim partenerilor noștri pentru susținere!
@@ -490,14 +490,14 @@ translations:
     t: Modificări în timp
   - key: blocks.tools_arrows.description
     t: |
-        Fiecare linie acoperă intervalul de la cel mai vechi până la cel mai recent an de date disponibile. Cu cât punctul e poziționat mai sus, cu atât tehnologia este mai folosită,
-        iar cu cât acesta e poziționat mai în dreapta, cu atât crește dorința utilizatorilor de a învăța tehnologia respectivă; sau au folosit-o și ar folosi-o din nou.
+      Fiecare linie acoperă intervalul de la cel mai vechi până la cel mai recent an de date disponibile. Cu cât punctul e poziționat mai sus, cu atât tehnologia este mai folosită,
+      iar cu cât acesta e poziționat mai în dreapta, cu atât crește dorința utilizatorilor de a învăța tehnologia respectivă; sau au folosit-o și ar folosi-o din nou.
   - key: blocks.tools_arrows.note
     t: |
-        - Unele linii nu conțin toți anii.
-        - Tehnologiile cu date pentru un singur an nu sunt incluse.
-        - Formula vitezei = (cea mai recentă opinie - cea mai veche opinie) + (cea mai recentă utilizare) - (cea mai veche utilizare)
-        - O viteză pozitivă înseamnă că utilizarea și/sau opiniile pozitive au crescut de-a lungul timpului.
+      - Unele linii nu conțin toți anii.
+      - Tehnologiile cu date pentru un singur an nu sunt incluse.
+      - Formula vitezei = (cea mai recentă opinie - cea mai veche opinie) + (cea mai recentă utilizare) - (cea mai veche utilizare)
+      - O viteză pozitivă înseamnă că utilizarea și/sau opiniile pozitive au crescut de-a lungul timpului.
 
   # tools quadrant
   - key: blocks.tools_quadrant
@@ -523,7 +523,7 @@ translations:
 
   # tool experience
   - key: blocks.tool_experience
-    t: 'Experiență cu {name}'
+    t: "Experiență cu {name}"
   - key: blocks.tool_experience.description
     t: Experiența respondentului cu {name}.
 
@@ -532,15 +532,15 @@ translations:
     t: Distribuția pozitiv/negativ
   - key: blocks.tools_experience_marimekko.description
     t: |
-        Acest grafic prezintă distribuția experiențelor pozitive („mi-ar plăcea să învăț”, „aș folosi din nou”) vs
-        negative („nu sunt interesat(ă)”, „nu aș mai folosi”), de-o parte și de alta a unei axe centrale.
+      Acest grafic prezintă distribuția experiențelor pozitive („mi-ar plăcea să învăț”, „aș folosi din nou”) vs
+      negative („nu sunt interesat(ă)”, „nu aș mai folosi”), de-o parte și de alta a unei axe centrale.
 
-        Grosimea barei reprezintă numărul de respondenți care știu de existența tehnologiei respective.
+      Grosimea barei reprezintă numărul de respondenți care știu de existența tehnologiei respective.
 
   # tool tier list
   - key: blocks.tools_tier_list
     t: Topul librăriilor
-  - key: blocks.tools_tier_list.description
+  - key: blocks.tools_tier_list.note
     t: |
       Acest grafic ilustrează topul librăriilor în funcție de rata de retenție (procentul utilizatorilor
       care ar folosi o librărie din nou). Librăriile care sunt folosite de mai puțin de 10% din respondenții sondajului 
@@ -651,7 +651,7 @@ translations:
     t: Ne pare rău, export-ul CSV nu este disponibil pentru acest set de date.
   - key: export.graphql
     t: >
-        Poți da copy/paste acestui query în <a target="_blank" rel="nofollow" href="https://graphiql.devographics.com/">API-ul nostru public GraphQL</a>.
+      Poți da copy/paste acestui query în <a target="_blank" rel="nofollow" href="https://graphiql.devographics.com/">API-ul nostru public GraphQL</a>.
   - key: export.export_json
     t: Descarcă datele în format JSON
   - key: export.export_graphql
@@ -676,11 +676,11 @@ translations:
   - key: custom_data.details
     t: >
       1. Copiază conținutul câmpului „GraphQL Query” și introdu-l în panelul din mijloc al [explorer-ului GraphQL API](https://graphiql.stateofjs.com/).
-      
+
       2. Modifică query-ul adăugând unul sau mai multe **filtre** folosind explorer-ul din partea stângă. Asigură-te că păstrezi aceeași structură generală a datelor.
-      
+
       3. Dă click pe butonul de Play („Execute Query”) din fereastra explorer.
-      
+
       4. Copiază rezultatele query-ului modificat (`{ data: … }` ) în câmpul „Custom Data” și dă click pe „Customize Data”.
 
   # Tools usage variations
@@ -954,17 +954,17 @@ translations:
   - key: share.site.title
     t: Descoperă rezultatele {siteTitle}
   - key: share.site.twitter_text
-    t: 'Descoperă rezultatele {siteTitle} {link} {hashtag}'
+    t: "Descoperă rezultatele {siteTitle} {link} {hashtag}"
   - key: share.site.subject
-    t: 'Rezultatele sondajului {siteTitle}'
+    t: "Rezultatele sondajului {siteTitle}"
   - key: share.site.body
-    t: 'Iată câteva rezultate interesante ale sondajului: {link}'
+    t: "Iată câteva rezultate interesante ale sondajului: {link}"
   - key: share.block.twitter_text
-    t: '{hashtag} {year}: {title} {link}'
+    t: "{hashtag} {year}: {title} {link}"
   - key: share.block.subject
-    t: 'Rezultatele sondajului {siteTitle}'
+    t: "Rezultatele sondajului {siteTitle}"
   - key: share.block.body
-    t: 'Iată câteva rezultate interesante ale sondajului ({title}): {link}'
+    t: "Iată câteva rezultate interesante ale sondajului ({title}): {link}"
   - key: share.twitter
     t: Distribuie pe Twitter
   - key: share.facebook
@@ -1127,45 +1127,45 @@ translations:
 
   - key: hints.hint_hint
     t: >
-        Vei găsi mici indicii ca acesta pe parcursul rezultatelor sondajului,
-        care vor oferi mai multe detalii.
+      Vei găsi mici indicii ca acesta pe parcursul rezultatelor sondajului,
+      care vor oferi mai multe detalii.
 
   - key: hints.units_switcher_hint
     t: >
-        Poți folosi segmentarea din dreapta sus a fiecărui bloc pentru a comuta
-        între procente relative și numere absolute, obținând astfel o
-        perspectivă diferită asupra acelorași date.
+      Poți folosi segmentarea din dreapta sus a fiecărui bloc pentru a comuta
+      între procente relative și numere absolute, obținând astfel o
+      perspectivă diferită asupra acelorași date.
 
   - key: hints.export_hint
     t: >
-        Butonul <span class="hint-icon hint-export-button">Exportă</span> din partea de sus a fiecărui bloc
-        îți oferă posibilitatea de a obține datele în format raw JSON pentru fiecare grafic sau un
-        query GraphQL pe care îl poți executa în API-ul nostru public.
+      Butonul <span class="hint-icon hint-export-button">Exportă</span> din partea de sus a fiecărui bloc
+      îți oferă posibilitatea de a obține datele în format raw JSON pentru fiecare grafic sau un
+      query GraphQL pe care îl poți executa în API-ul nostru public.
 
   - key: hints.completion_hint
     t: >
-        Întrucât toate întrebările sunt opționale, unele dintre acestea au înregistrat mai puține răspunsuri decât altele.
-        Indicatorul de completare (<span class="hint-completion-indicator">◕</span>) arată câte persoane au răspuns la o anumită întrebare.
+      Întrucât toate întrebările sunt opționale, unele dintre acestea au înregistrat mai puține răspunsuri decât altele.
+      Indicatorul de completare (<span class="hint-completion-indicator">◕</span>) arată câte persoane au răspuns la o anumită întrebare.
 
   - key: hints.tool_modal_hint
     t: >
-        Poți da click pe numele oricărei tehnologii pentru mai multe detalii și pentru
-        o viziune comprehensivă a datelor.
+      Poți da click pe numele oricărei tehnologii pentru mai multe detalii și pentru
+      o viziune comprehensivă a datelor.
 
   - key: hints.rankings_modes_hint
     t: >
-        Poți opta ca graficul cu experiența de-a lungul timpului să prezinte fie retenția, interesul, utilizarea sau conștientizarea,
-        oferind o imagine de ansamblu asupra unei categorii.
+      Poți opta ca graficul cu experiența de-a lungul timpului să prezinte fie retenția, interesul, utilizarea sau conștientizarea,
+      oferind o imagine de ansamblu asupra unei categorii.
 
   - key: hints.sharing_hint
     t: >
-        A fost dovedit științific că distribuirea sondajului pe Twitter, Facebook sau pe email
-        îți îmbunătățește performanțele JavaScript cu până la 15%.
+      A fost dovedit științific că distribuirea sondajului pe Twitter, Facebook sau pe email
+      îți îmbunătățește performanțele JavaScript cu până la 15%.
 
   - key: hints.tshirt_hint
     t: >
-        O altă descoperire științifică garantată: cumpărarea tricoului nostru
-        îți va îmbogăți cunoștințele de programare cu peste 9.000!
+      O altă descoperire științifică garantată: cumpărarea tricoului nostru
+      îți va îmbogăți cunoștințele de programare cu peste 9.000!
 
   - key: hints.variants_hint
     t: >
@@ -1279,7 +1279,8 @@ translations:
   - key: sections.data_explorer.title
     t: Explorator de date
   - key: sections.data_explorer.description
-    t: Explorează dinamic audiența sondajului alegând două întrebări și observând modul în care
+    t:
+      Explorează dinamic audiența sondajului alegând două întrebări și observând modul în care
       respondenții sunt distribuiți.
 
   - key: hints.data_explorer
@@ -1405,7 +1406,7 @@ translations:
 
   - key: explorer.count_details.4_missing
     t: |
-      Numărul real este **{cellCount}**, iar acei **{normalizedCountDelta}** respondenți lipsă sunt prezentați ca puncte goale. 
+      Numărul real este **{cellCount}**, iar acei **{normalizedCountDelta}** respondenți lipsă sunt prezentați ca puncte goale.
 
   - key: explorer.percentage_details.1_extra
     t: |
@@ -1413,12 +1414,12 @@ translations:
       între **„{yAxisLabel}” respondenți care au selectat „{yAnswerLabel}”** acest procent urcă la **{bucketPercentage}%**.
 
   - key: explorer.percentage_details.1_missing
-      În total, **{xAxisPercentage}%** din „{xAxisLabel}” respondenți au selectat „{xAnswerLabel}”, dar 
+      În total, **{xAxisPercentage}%** din „{xAxisLabel}” respondenți au selectat „{xAnswerLabel}”, dar
       între **„{yAxisLabel}” respondenți care au selectat „{yAnswerLabel}”** acest procent scade la **{bucketPercentage}%**.
 
   - key: explorer.percentage_details.2_extra
     t: |
-      Acei **{normalizedPercentageDelta}%** respondenți în plus sunt *colorați*. 
+      Acei **{normalizedPercentageDelta}%** respondenți în plus sunt *colorați*.
 
   - key: explorer.percentage_details.2_missing
     t: |
@@ -1446,9 +1447,9 @@ translations:
   #       The actual count is **{bucketPercentage}%**, and those missing **{normalizedPercentageDelta}%** respondents appear as empty dots.
 
   - key: explorer.extra_missing_respondents
-    t: |      
+    t: |
       ### Respondenți în plus și lipsă
-      
+
       Graficul de mai sus își propune să identifice zonele care prezintă valori peste sau sub așteptări   
       comparativ cu un punct de plecare calculat. 
 
