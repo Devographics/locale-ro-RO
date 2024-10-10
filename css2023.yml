@@ -51,7 +51,7 @@ translations:
       Între calitatea video scăzută, casetele voluminoase și faptul că trebuia să derulezi înapoi, nu sunt prea multe
       de care să-ți fie dor din era VHS. Dar un lucru care *ne* lipsește sunt imaginile minunate din anii '90 cu care
       obișnuiau să fie decorate casetele VHS nescrise.
-      
+
       Dar acum, grație talentatului Christopher Kirk-Nielsen ne putem bucura cu toții de strălucirea retro, sărbătorind
       în același timp și dragostea pentru CSS!
 
@@ -105,7 +105,7 @@ translations:
 
   - key: sections.other_tools.description.css2023
     t: |
-     La 30 de ani de la inventarea browserului, încă vedem inovații cu noii veniți, cum sunt Brave și Arc; sau instrumente specializate cum sunt Polypane care câștigă cotă de piață.
+      La 30 de ani de la inventarea browserului, încă vedem inovații cu noii veniți, cum sunt Brave și Arc; sau instrumente specializate cum sunt Polypane care câștigă cotă de piață.
 
   - key: sections.usage.description.css2023
     t: |
@@ -200,7 +200,7 @@ translations:
   # Conclusion
   ###########################################################################
 
-  - key: conclusion.css2023
+  - key: conclusion.css2023.chen_hui_jing
     t: |
       <span class="first-line">Pe măsură ce utilizarea noilor funcționalități CSS a avut o tendință ascendentă, folosirea framework-urilor CSS a fost pe o pantă descendentă.</span>
 
@@ -214,7 +214,7 @@ translations:
 
       Însă așa cum [Lea Verou](https://lea.verou.me/) menționa anul trecut, cu ajutorul unor inițiative cum e [Interop](https://wpt.fyi/interop-2023) care aduce browserele la aceeași masă, funcționalități care în trecut păreau imposibile, acum ar putea deveni realitate!
 
-  - key: conclusion.css2023.bio
+  - key: conclusion.css2023.chen_hui_jing.bio
     t: Developer Experience Engineer @ Interledger Foundation
 
   ###########################################################################
