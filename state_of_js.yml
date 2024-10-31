@@ -112,9 +112,9 @@ translations:
   - key: sections.monorepo_tools.description
     t: Instrumente folosite pentru a gestiona monorepo-uri JavaScript.
 
-  - key: sections.tools_others.title
+  - key: sections.tools.title
     t: Alte instrumente
-  - key: sections.tools_others.description
+  - key: sections.tools.description
     t: Alte instrumente JavaScript
 
   - key: sections.other_tools.title
@@ -665,69 +665,69 @@ translations:
   # Other Tools
   ###########################################################################
 
-  - key: tools_others.runtimes
+  - key: tools.runtimes
     t: JavaScript Runtimes
-  - key: tools_others.runtimes.question
+  - key: tools.runtimes.question
     t: Ce engines/runtimes/execution environments folosești în mod frecvent?
-  - key: tools_others.runtimes.others
+  - key: tools.runtimes.others
     t: Alte runtimes
-  - key: tools_others.runtimes.others.description
+  - key: tools.runtimes.others.description
     t: Alte răspunsuri (câmp deschis).
 
-  - key: tools_others.package_registries
+  - key: tools.package_registries
     t: Package Registries
-  - key: tools_others.package_registries.question
+  - key: tools.package_registries.question
     t: Ce package registries folosești în mod frecvent?
-  - key: tools_others.package_registries.others
+  - key: tools.package_registries.others
     t: Alte package registries
-  - key: tools_others.package_registries.others.description
+  - key: tools.package_registries.others.description
     t: Alte răspunsuri (câmp deschis).
 
-  - key: tools_others.form_factors
+  - key: tools.form_factors
     aliasFor: environments.form_factors
-  - key: tools_others.form_factors.description
+  - key: tools.form_factors.description
     aliasFor: environments.form_factors.question
 
-  - key: tools_others.backend_as_a_service
+  - key: tools.backend_as_a_service
     t: Provideri backend-as-a-service
-  - key: tools_others.backend_as_a_service.question
+  - key: tools.backend_as_a_service.question
     t: Servicii care găzduiesc date și oferă un client API pentru a le accesa.
-  - key: tools_others.backend_as_a_service.others
+  - key: tools.backend_as_a_service.others
     t: Alți provideri BaaS
 
-  - key: tools_others.date_management
+  - key: tools.date_management
     t: Managementul datei
-  - key: tools_others.date_management.question
+  - key: tools.date_management.question
     t: Librării care te ajută să gestionezi datele și diferențele de fus orar.
-  - key: tools_others.date_management.others
+  - key: tools.date_management.others
     t: Alte librării de management al datei
 
-  - key: tools_others.data_visualization
+  - key: tools.data_visualization
     t: Vizualizarea datelor
-  - key: tools_others.data_visualization.question
+  - key: tools.data_visualization.question
     t: Librării care te ajută cu grafice și alte vizualizări de date.
-  - key: tools_others.data_visualization.others
+  - key: tools.data_visualization.others
     t: Alte librării de vizualizare a datelor
 
-  - key: tools_others.graphics_animation
+  - key: tools.graphics_animation
     t: Grafică & animații
-  - key: tools_others.graphics_animation.question
+  - key: tools.graphics_animation.question
     t: Librării dedicate graficii și animațiilor.
-  - key: tools_others.graphics_animation.others
+  - key: tools.graphics_animation.others
     t: Alte librării de grafică & animații
 
-  - key: tools_others.data_fetching
+  - key: tools.data_fetching
     t: Preluarea datelor
-  - key: tools_others.data_fetching.question
+  - key: tools.data_fetching.question
     t: Librării care gestionează preluarea și stocarea în cache a datelor.
-  - key: tools_others.data_fetching.others
+  - key: tools.data_fetching.others
     t: Alte librării de preluare a datelor
 
-  - key: tools_others.backend_frameworks
+  - key: tools.backend_frameworks
     aliasFor: sections.back_end_frameworks.title
-  - key: tools_others.backend_frameworks.description
+  - key: tools.backend_frameworks.description
     t: Frameworks for generating APIs and managing back-ends
-  - key: tools_others.backend_frameworks.others
+  - key: tools.backend_frameworks.others
     t: Alte framework-uri de back-end
 
   - key: other_tools.ai_tools
@@ -763,16 +763,16 @@ translations:
   - key: usage.js_ts_balance.question
     t: Cum îți împarți timpul între scrierea codului JavaScript și TypeScript?
 
-  - key: tools_others.edge_runtimes
+  - key: tools.edge_runtimes
     t: Runtimes JavaScript Edge/Serverless
-  - key: tools_others.edge_runtimes.question
+  - key: tools.edge_runtimes.question
     t: Ce runtime edge sau serverless folosești în mod regulat?
-  - key: tools_others.edge_runtimes.others
+  - key: tools.edge_runtimes.others
     t: Alte runtime-uri Edge
   - key: other_tools.edge_runtimes
-    aliasFor: tools_others.edge_runtimes
+    aliasFor: tools.edge_runtimes
   - key: other_tools.edge_runtimes.description
-    aliasFor: tools_others.edge_runtimes.question
+    aliasFor: tools.edge_runtimes.question
 
   - key: usage.usage_type
     t: Utilizare JavaScript
