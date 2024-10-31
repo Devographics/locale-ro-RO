@@ -730,14 +730,14 @@ translations:
   - key: tools.backend_frameworks.others
     t: Alte framework-uri de back-end
 
-  - key: other_tools.ai_tools
+  - key: tools.ai_tools
     t: Instrumente AI
-  - key: other_tools.ai_tools.question
+  - key: tools.ai_tools.question
     t: Pe care dintre următoarele instrumente AI le folosești în mod regulat pentru a scrie cod?
 
-  - key: other_tools.hosting
+  - key: tools.hosting
     t: Servicii de hosting
-  - key: other_tools.hosting.question
+  - key: tools.hosting.question
     t: Pe care dintre următoarele servicii le-ai folosit pentru a găzdui aplicații JavaScript?
 
   ###########################################################################
