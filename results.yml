@@ -954,7 +954,7 @@ translations:
   - key: share.site.title
     t: Descoperă rezultatele {siteTitle}
   - key: share.site.twitter_text
-    t: "Descoperă rezultatele {siteTitle} {link} {hashtag}"
+    t: "Descoperă rezultatele {siteTitle} {link}"
   - key: share.site.subject
     t: "Rezultatele sondajului {siteTitle}"
   - key: share.site.body
